@@ -5,7 +5,7 @@ const me = {
   name: "Curtis Tarr",
   job: Jobs.SoftwareEngineer,
   spokenLanguages: ["en_GB"],
-  programmingLanguages: ["Java", "Python", "JavaScript", "TypeScript"],
+  programmingLanguages: ["Java", "C#", "Python", "JavaScript", "TypeScript"],
   website: "https://tarrcurtis.github.io/",
 }
 
