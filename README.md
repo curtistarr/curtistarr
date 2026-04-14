@@ -1,19 +1,27 @@
-## Hello 👋
+## Hey there 👋
 
 ```typescript
 const me = {
-  name: "Curtis Tarr",
-  job: Jobs.SoftwareEngineer,
-  spokenLanguages: ["en_GB"],
-  programmingLanguages: ["Java", "C#", "Python", "JavaScript", "TypeScript"],
-  website: "https://curtistarr.github.io/",
-}
+  name: 'Curtis Tarr',
+  role: 'Software Engineer',
+  languages: ['C#', 'Java', 'Python', 'JavaScript', 'TypeScript'],
+  website: 'https://curtistarr.github.io/',
+};
 
-console.log(`Hi I'm ${me.name}, I hope you enjoy some of my random projects :)`)
+console.log(`Hi, I'm ${me.name} - welcome to my GitHub!`);
 ```
+
+### About Me
+
+Software engineer who enjoys building useful tools and tinkering with side projects. Mostly working across the full stack with TypeScript, and C#. Based in the UK.
+
+### Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=curtistarr&show_icons=true&theme=default&hide_border=true&hide_title=true&rank_icon=github" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curtistarr&layout=compact&theme=default&hide_border=true" height="150" alt="Top languages" />
+</p>
 
 ---
 
-Here's some of my random websites:
-- [Diff](https://curtistarr.github.io/diff/) - See the Diff between two text blocks
-- [Wordle Helper](https://curtistarr.github.io/wordle-helper/) - Tool to help solve Wordle puzzles
+<sub>🔗 [curtistarr.github.io](https://curtistarr.github.io/)</sub>
