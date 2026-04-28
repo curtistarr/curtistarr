@@ -17,4 +17,4 @@ Software engineer who enjoys building useful tools and tinkering with side proje
 
 ---
 
-<sub>🔗 [curtistarr.github.io](https://curtistarr.github.io/)</sub>
+<sub>🔗 [curtistarr.uk](https://curtistarr.uk/)</sub>
