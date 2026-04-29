@@ -5,7 +5,7 @@ const me = {
   name: 'Curtis Tarr',
   role: 'Software Engineer',
   languages: ['C#', 'Java', 'Python', 'JavaScript', 'TypeScript'],
-  website: 'https://curtistarr.github.io/',
+  website: 'https://curtistarr.uk',
 };
 
 console.log(`Hi, I'm ${me.name} - welcome to my GitHub!`);
